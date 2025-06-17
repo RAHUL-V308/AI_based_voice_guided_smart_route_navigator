@@ -47,6 +47,7 @@ This project is an intelligent assistant that helps users navigate through a col
 * Canteen
 
 Note:You can expand the map by editing the graph in the code.
+⚠️ Create your own client_secrets.json file by following the PyDrive Quickstart and place it in the root directory of the project.
 
 ## 📦 Setup Instructions
 
